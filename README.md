@@ -57,6 +57,5 @@ The model may be sensitive to sudden structural breaks or revisions in TÜİK da
 
 ## 14. Author
 - **Name:** Elif İŞCAN
-
-- **Student Number:** [Okul Numaran]
-- **Course:** [Dersin Adı]
+- **Student Number:** 138324055
+- **Course:** Quantitative Analysis and Decision Making
