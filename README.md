@@ -56,7 +56,7 @@ The model may be sensitive to sudden structural breaks or revisions in TÜİK da
 - `forecasting_project.Rmd`: The main analysis notebook.
 
 ## 14. Author
-Elif işcan
-- **Name:** [Adın Soyadın]
+- **Name:** Elif İŞCAN
+
 - **Student Number:** [Okul Numaran]
 - **Course:** [Dersin Adı]
