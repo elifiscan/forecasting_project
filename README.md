@@ -12,8 +12,6 @@ Data were accessed directly from the TÜİK Data Portal using the `tuikr` R pack
 - **tuikr Dataflow ID:** sts_trnv_m
 - **Selected Variable:** Total Turnover Index
 - **Data Frequency:** Monthly
-- **Latest available observation:** [Örn: March 2026]
-- **Forecast Target Period:** [Örn: April 2026]
 - **Date of data access:** June 2, 2026
 
 ## 3. Research Objective
